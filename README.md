@@ -58,10 +58,10 @@ Docker compose up -d
 ### Overview of the Swagger UI 
 
 
-
+![UI](ToDoApp/Static/Swagger.png)
 
 ![UI](ToDoApp/Static/ApiResponse.png)
 
-![UI](ToDoApp/Static/Swagger.png)
+
 
 
