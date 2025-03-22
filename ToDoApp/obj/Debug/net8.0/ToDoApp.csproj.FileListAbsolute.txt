@@ -38,3 +38,7 @@
 /Users/sumanth/RiderProjects/ToDoApp/ToDoApp/obj/Debug/net8.0/ToDoApp.genruntimeconfig.cache
 /Users/sumanth/RiderProjects/ToDoApp/ToDoApp/obj/Debug/net8.0/ref/ToDoApp.dll
 /Users/sumanth/RiderProjects/ToDoApp/ToDoApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/sumanth/RiderProjects/ToDoApp/ToDoApp/obj/Debug/net8.0/ToDoApp.sourcelink.json
+/Users/sumanth/RiderProjects/ToDoApp/ToDoApp/bin/Debug/net8.0/ToDoApp.staticwebassets.endpoints.json
+/Users/sumanth/RiderProjects/ToDoApp/ToDoApp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/sumanth/RiderProjects/ToDoApp/ToDoApp/obj/Debug/net8.0/staticwebassets/msbuild.ToDoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

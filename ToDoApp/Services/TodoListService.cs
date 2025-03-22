@@ -1,6 +1,6 @@
 using MongoDB.Bson;
 using MongoDB.Driver;
-using ToDoApp.Domain;
+using ToDoApp.Model;
 
 namespace ToDoApp.Services;
 

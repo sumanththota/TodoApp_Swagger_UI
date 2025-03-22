@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net9.0": {
       "DnsClient/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -185,12 +185,12 @@
           "Swashbuckle.AspNetCore.SwaggerGen": "7.2.0"
         },
         "compile": {
-          "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Annotations.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Swashbuckle.AspNetCore.Annotations.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Annotations.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -201,12 +201,12 @@
           "Microsoft.OpenApi": "1.6.22"
         },
         "compile": {
-          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.Swagger.dll": {
             "related": ".pdb;.xml"
           }
         },
@@ -220,12 +220,12 @@
           "Swashbuckle.AspNetCore.Swagger": "7.2.0"
         },
         "compile": {
-          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -1091,7 +1091,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.13",
       "MongoDB.Bson >= 3.2.0",
       "MongoDB.Driver >= 3.2.0",
@@ -1115,14 +1115,14 @@
         "/Users/sumanth/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -1135,11 +1135,12 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
@@ -1181,7 +1182,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
