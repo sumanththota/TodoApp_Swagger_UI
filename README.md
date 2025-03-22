@@ -1,4 +1,4 @@
-# ASP.NET Core MVC Application - Item Tracker
+# ASP.NET Core WEB API - Restful CRUD ToDoList
 
 This is a simple ASP.NET Core WEB API applicaiton built using .NET 9. The project demonstrates CRUD operations on TO Do List using inbuilt Swagger UI  and MongoDB as the Database.
 
