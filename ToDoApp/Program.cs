@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Options;
 using ToDoApp;
-using ToDoApp.Services;
+using ToDoApp.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

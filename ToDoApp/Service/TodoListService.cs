@@ -2,7 +2,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using ToDoApp.Model;
 
-namespace ToDoApp.Services;
+namespace ToDoApp.Service;
 
 public class TodoListService
 {
