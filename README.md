@@ -62,6 +62,6 @@ Docker compose up -d
 
 ![UI](ToDoApp/Static/ApiResponse.png)
 
-![UI](MyApp/wwwroot/Swagger.png)
+![UI](ToDoApp/Static/Swagger.png)
 
 
